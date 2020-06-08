@@ -1,1 +1,1 @@
-# Bu proje kullanıcıların  banka hesabına para yatırıp çekebildiği ve bakiyesini görüntüleyebildiği bir yapı oluşturuluştur.
+# Bu proje kullanıcıların  banka hesabına para yatırıp çekebildiği ve bakiyesini görüntüleyebildiği bir yapı oluşturulmuştur.
